@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6b6facb066ed0e4faeddf5742ea0d54
+timeCreated: 1480846433
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snowman: {fileID: 1000011106918878, guid: 6f0ab64132881654a93d094c4c39d763, type: 2}
+  - rabbit: {fileID: 1000013496563492, guid: 07addd530299f2f44abf3cb96e77075f, type: 2}
+  - wildboar: {fileID: 1000014139241598, guid: eb8c96cf514575f43a4cbd62348204d0, type: 2}
+  - tiger: {fileID: 1000012695978396, guid: 04a6eac914882ca4abc66d83e70b12c4, type: 2}
+  - bear: {fileID: 1000010134595944, guid: f86f8e148ea1ad7469ade4191e930041, type: 2}
+  - Rrabbit: {fileID: 1000011963485510, guid: 347ebf88f79736b4684c46cab2381ebc, type: 2}
+  - Rwildboar: {fileID: 1000010554735886, guid: 4669e551a74924d448dc969712e77ea0,
+      type: 2}
+  - Rtiger: {fileID: 1000012964661724, guid: 0a42f772c3732ad448337905e49610e0, type: 2}
+  - Rbear: {fileID: 1000012841363682, guid: 2efcba607fe6cd24ba9ad6e4477c0e72, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

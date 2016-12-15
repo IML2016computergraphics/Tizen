@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f3f746a0d8a16d54d99f4dfc497225e5
+timeCreated: 1480755561
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snowman: {fileID: 1000013805057394, guid: 6f0ab64132881654a93d094c4c39d763, type: 2}
+  - snowflake: {fileID: 1000011736003346, guid: 1090a57788c681849b1034aa08c35cc0,
+      type: 2}
+  - itemgage: {instanceID: 0}
+  - score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

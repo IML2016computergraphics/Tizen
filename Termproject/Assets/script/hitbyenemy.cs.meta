@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cf530380fd9e38e4e829d1d06fcdf5be
+timeCreated: 1480740135
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snowman: {fileID: 1000013805057394, guid: 6f0ab64132881654a93d094c4c39d763, type: 2}
+  - rabbit: {fileID: 1000013496563492, guid: 07addd530299f2f44abf3cb96e77075f, type: 2}
+  - snowlife1: {fileID: 1000014228501052, guid: 9d504333f23cfaa4ea5ba373ad2ee37d,
+      type: 2}
+  - snowlife2: {fileID: 1000011724759868, guid: 8e7863f97ff6d5d4fb1fbabbe55f81c7,
+      type: 2}
+  - snowlife3: {fileID: 1000012918209386, guid: 781fa2848a72c9e47ba725240b08e083,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

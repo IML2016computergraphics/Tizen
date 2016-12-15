@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f99eba221cbaab348971e3d339b00c6c
+timeCreated: 1480574939
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animal: {instanceID: 0}
+  - eraser: {fileID: 1000011316670202, guid: 3f7456d8f1a07524b8d2ffca2bd4a1c8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

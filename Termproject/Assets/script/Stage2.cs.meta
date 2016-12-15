@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10ef920d6fbbfd848adfa30ea91696dd
+timeCreated: 1480748578
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bsnowman: {instanceID: 0}
+  - snowball: {fileID: 1000011563625654, guid: 40561a6bf364c7a42a71b3b75cc739ab, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
